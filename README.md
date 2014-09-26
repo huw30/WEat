@@ -1,0 +1,1 @@
+###This is a web application that people can search for restaurants and share with their friends in group. Friends are able to interact with each other.
