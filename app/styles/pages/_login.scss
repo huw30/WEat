@@ -10,7 +10,6 @@
 .login-form {
   position: relative;
   border-top: solid 1px $grey;
-  background-image: url('../images/footer.svg');
   background-size: 100% 100%;
   transform: translate3d(0,0,0);
   height: 600px;
@@ -37,7 +36,7 @@
     border-radius: 0.35em;
     padding: 1em 2em;
     margin-top: 30px;
-    margin-right: 30px;
+    margin-right: 300px;
     background: $grey;
     font-family: SourceSansPro-Light;
     text-decoration: none;
